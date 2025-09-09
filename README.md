@@ -7,7 +7,6 @@ The analysis helps businesses understand customer segments for targeted marketin
 ## 📊 Dataset
 - **Dataset Name**: Mall Customer Dataset  
 - **Features**: CustomerID, Gender, Age, Annual Income, Spending Score  
-- **Source**: [Mall Customer Dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial)
 
 ## 🛠️ Technologies Used
 - Python 🐍
